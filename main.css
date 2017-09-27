@@ -12,7 +12,7 @@ body{
   color: #838994; 
   letter-spacing: 0.03em; 
   -webkit-font-smoothing: antialiased;
-  overflow: auto;
+  overflow: fixed;
 }
 .top-navigation{
   position: fixed;
@@ -29,10 +29,11 @@ body{
   border: none;
 }
 .container{
+  overflow-y: scroll;
+  max-height: 50%; 
   display: inline-block;
   background-color: none; 
   width: 40em;
-  height: 10em
   color: #fff;
   font-family: Oswald Futura sans-serif; 
   font-size: 18px; 
