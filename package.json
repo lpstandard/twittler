@@ -1,0 +1,19 @@
+{
+  "name": "hrf1-twittler",
+  "version": "1.0.0",
+  "description": "- Review the README associated with this sprint [here](http://fulcrum.hackreactor.com/content/sprint-twittler.html)",
+  "main": "data_generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpstandard/twittler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lpstandard/twittler/issues"
+  },
+  "homepage": "https://github.com/lpstandard/twittler#readme"
+}
